@@ -17,7 +17,9 @@
 
 ---
 
-### // COMMUNICATION PROTOCOLS
+<h3 align="center">
+#COMMUNICATION-PROTOCOLS
+</h3>
 
 <!-- Thay thế '#' bằng link mạng xã hội của bạn -->
 <p align="center">
@@ -26,7 +28,9 @@
   <a href="mailto:#" target="_blank" disabled><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### // OPERATIONAL STACK
+<h3 align="center">
+#OPERATIONAL-STACK
+</h3>
 
 <p align="center">
   <!-- Frontend -->
@@ -58,7 +62,9 @@
 
 ---
 
-### // PERFORMANCE DATA ANALYSIS
+<h3 align="center">
+#PERFORMANCE-DATA-ANALYSIS
+</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=n0bcode&show_icons=true&locale=en&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="n0bcode-stats" />
